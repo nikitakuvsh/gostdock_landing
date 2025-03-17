@@ -49,13 +49,14 @@
     padding: 24px 41px;
 }
 
-@media (max-width: 1366px) {
-    .functional__image-item {
-        width: 100%;
-        height: auto;
-        object-fit: cover;
-    }
+.functional__image-item {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
 
+@media (max-width: 1366px) {
+    
     .functional__list-number {
         font-size: 25px;
     }

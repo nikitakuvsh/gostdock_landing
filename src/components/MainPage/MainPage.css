@@ -49,6 +49,7 @@
     line-height: 140%;
     font-weight: 600;
     transition: all 0.15s ease-in-out;
+    margin-top: -10rem;
 }
 
 .main-page__button:hover {
@@ -117,6 +118,10 @@
         margin-left: 10px;
         margin-right: 10px;
         margin-top: 10px;
+    }
+
+    .main-page__button {
+        margin-top: 0;
     }
     
 }
