@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+.main-page__container {
+    position: relative;
+}
+
+.main-page__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.main-page__title {
+    color: #F5F5F5;
+    font-size: 48px;
+    line-height: 120%;
+    letter-spacing: -0.96px;
+    text-wrap: nowrap;
+}
+
+.main-page__subtitle {
+    margin-top: 25px;
+    color: #F5F5F5;
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 42px;
+}
+
+.main-page__button {
+    max-width: max-content;
+    align-self: center;
+    padding: 14px 45px;
+    color: #F5F5F5;
+    background: #6290E4;
+    border-radius: 25px;
+    border: none;
+    font-size: 14px;
+    line-height: 140%;
+    font-weight: 600;
+    transition: all 0.15s ease-in-out;
+}
+
+.main-page__button:hover {
+    background: #4f78c4;
+}
+
+.main-page__sticker {
+    position: absolute;
+}
+
+.sticker--woman {
+    left: 15%;
+    top: 12rem;
+}
+
+.sticker--laptop {
+    top: 25rem;
+    left: 44%;
+}
+
+.sticker--man {
+    top: 10rem;
+    right: 10%;
+}
