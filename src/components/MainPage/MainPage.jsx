@@ -6,9 +6,9 @@ import manImage from '../../images/pictures/main-page-image-3.svg';
 export default function MainPage(){
     return (
         <div className='main-page__container'>
+            <h2 className='main-page__title'>ГОСТДОК - автоматизация оформления документов</h2>
+            <span className='main-page__subtitle'>Один раз создай шаблон и используй его в любых <br /> документах</span>
             <div className='main-page__content'>
-                <h2 className='main-page__title'>ГОСТДОК - автоматизация оформления документов</h2>
-                <span className='main-page__subtitle'>Один раз создай шаблон и используй его в любых <br /> документах</span>
                 <button className='main-page__button' onClick={() => window.open('https://gostdoc.computernetthings.ru/', '_blank')}>Попробовать бесплатно</button>
             </div>
             <img className='main-page__sticker sticker--woman' alt='sticker' src={womanImage}/>

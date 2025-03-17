@@ -62,3 +62,21 @@
 .header__nav-button:hover {
     background-color: #4f78c4;
 }
+
+@media (max-width: 900px) {
+
+    .header__content {
+        margin-top: 1rem;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .header__nav-item {
+        display: none;
+    }
+
+    .header__image-text {
+        font-size: 5px;
+        text-wrap: nowrap;
+    }
+}

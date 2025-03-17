@@ -24,3 +24,11 @@ img {
     border-radius: 100px;
     padding-top: 50px;
 }
+
+@media (max-width: 900px) {
+    .black-rectangle {
+        padding-top: 25px;
+        border-radius: 35px;
+        margin-top: 40px;
+    }
+}
