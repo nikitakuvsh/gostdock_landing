@@ -13,6 +13,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 80px;
 }
 
 .how-it-work__list-item {
@@ -23,6 +24,7 @@
     background: #323B4C;
     padding: 25px 36px;
     margin-bottom: 30px;
+    text-wrap: nowrap;
 }
 
 .how-it-work__list-text {

@@ -13,6 +13,7 @@
 .functional__content {
     display: flex;
     justify-content: space-between;
+    gap: 80px;
 }
 
 .functional__list {
