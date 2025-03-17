@@ -18,3 +18,9 @@ img {
     user-select: none;
     -webkit-user-drag: none;
 }
+
+.black-rectangle {
+    background-color: #262626;
+    border-radius: 100px;
+    padding-top: 50px;
+}

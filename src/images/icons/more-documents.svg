@@ -1,0 +1,26 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" width="49" height="49" rx="14.5" fill="#6290E4" stroke="#6290E4"/>
+<g clip-path="url(#clip0_2945_16890)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 15.5C11 14.6716 11.6716 14 12.5 14H20.7071L24 17.2929V27.5C24 28.3284 23.3284 29 22.5 29H12.5C11.6716 29 11 28.3284 11 27.5V15.5ZM14.0004 17.9971L19.0004 18.0003L18.9998 19.0003L13.9998 18.9971L14.0004 17.9971ZM21 20.9954H14V21.9954H21V20.9954ZM21.0006 24.0005L14.0006 23.9929L13.9995 24.9929L20.9995 25.0005L21.0006 24.0005Z" fill="#F0F0F0"/>
+</g>
+<g clip-path="url(#clip1_2945_16890)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26 15.5C26 14.6716 26.6716 14 27.5 14H35.7071L39 17.2929V27.5C39 28.3284 38.3284 29 37.5 29H27.5C26.6716 29 26 28.3284 26 27.5V15.5ZM29.0004 17.9971L34.0004 18.0003L33.9998 19.0003L28.9998 18.9971L29.0004 17.9971ZM36 20.9954H29V21.9954H36V20.9954ZM36.0006 24.0005L29.0006 23.9929L28.9995 24.9929L35.9995 25.0005L36.0006 24.0005Z" fill="#F0F0F0"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.5 35C17.2239 35 17 34.7761 17 34.5V27.5C17 27.2239 17.2239 27 17.5 27C17.7761 27 18 27.2239 18 27.5V34.5C18 34.7761 17.7761 35 17.5 35Z" fill="#F0F0F0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33 34.5C33 34.7761 32.7761 35 32.5 35H17.5C17.2239 35 17 34.7761 17 34.5C17 34.2239 17.2239 34 17.5 34H32.5C32.7761 34 33 34.2239 33 34.5Z" fill="#F0F0F0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.5 35C32.2239 35 32 34.7761 32 34.5V27.5C32 27.2239 32.2239 27 32.5 27C32.7761 27 33 27.2239 33 27.5V34.5C33 34.7761 32.7761 35 32.5 35Z" fill="#F0F0F0"/>
+<g clip-path="url(#clip2_2945_16890)">
+<path d="M22.6667 32C22.4457 32 22.2667 32.1791 22.2667 32.4V35.6C22.2667 35.8209 22.4457 36 22.6667 36H25.3333C25.5542 36 25.7333 35.8209 25.7333 35.6V32.8781L24.8552 32H22.6667Z" fill="#F0F0F0"/>
+</g>
+<defs>
+<clipPath id="clip0_2945_16890">
+<rect width="15" height="15" fill="white" transform="translate(10 14)"/>
+</clipPath>
+<clipPath id="clip1_2945_16890">
+<rect width="15" height="15" fill="white" transform="translate(25 14)"/>
+</clipPath>
+<clipPath id="clip2_2945_16890">
+<rect width="4" height="4" fill="white" transform="translate(22 32)"/>
+</clipPath>
+</defs>
+</svg>
