@@ -12,10 +12,10 @@ export default function Header(){
                 </div>
 
                 <div className='header__nav'>
-                    <a className='header__nav-item' href=''>О сервисе</a>
-                    <a className='header__nav-item' href=''>Основные функции</a>
-                    <a className='header__nav-item' href=''>Как это работает</a>
-                    <a className='header__nav-item' href=''>Поддержка</a>
+                    <a className='header__nav-item' href='#'>О сервисе</a>
+                    <a className='header__nav-item' href='#'>Основные функции</a>
+                    <a className='header__nav-item' href='#'>Как это работает</a>
+                    <a className='header__nav-item' href='#'>Поддержка</a>
                     <button className='header__nav-button'>Авторизация</button>
                 </div>
                 
