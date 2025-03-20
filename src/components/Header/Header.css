@@ -1,8 +1,6 @@
 .header__content {
     display: flex;
     justify-content: space-between;
-    margin-left: 10rem;
-    margin-right: 10rem;
     margin-top: 10px;
     align-items: center;
 }
@@ -65,11 +63,8 @@
 }
 
 @media (max-width: 900px) {
-
     .header__content {
         margin-top: 1rem;
-        margin-left: 10px;
-        margin-right: 10px;
     }
 
     .header__nav-item {

@@ -20,6 +20,11 @@ img {
     -webkit-user-drag: none;
 }
 
+.fixed__container {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
 .black-rectangle {
     background-color: #262626;
     border-radius: 100px;
@@ -31,5 +36,10 @@ img {
         padding-top: 25px;
         border-radius: 35px;
         margin-top: 40px;
+    }
+
+    .fixed__container {
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
