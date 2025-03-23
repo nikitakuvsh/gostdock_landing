@@ -7,7 +7,7 @@ export default function MainPage(){
     return (
         <div className='main-page__container'>
             <h2 className='main-page__title'>ГОСТДОК - автоматизация оформления документов</h2>
-            <span className='main-page__subtitle'>Один раз создай шаблон и используй его в любых <br /> документах</span>
+            <span className='main-page__subtitle'>Создавайте документы по ГОСТу быстро и без ошибок с поддержкой LaTeX {window.innerWidth < 900 ? '' : <br />} и автоматическим обновлением компонентов</span>
             <div className='main-page__content'>
                 <button className='main-page__button' onClick={() => window.open('https://gostdoc.computernetthings.ru/', '_blank')}>Попробовать бесплатно</button>
             </div>

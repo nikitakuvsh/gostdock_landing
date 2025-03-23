@@ -15,11 +15,15 @@ function App() {
   return (
     <BrowserRouter>
       <div className="app">
-        <Header />
-        <MainPage />
+        <div className='fixed__container'>
+          <Header />
+        </div>
+          <MainPage />
         <div className='black-rectangle'>
-          <HowItWork />
-          <Functional />
+          <div className='fixed__container'>
+            <HowItWork />
+            <Functional />
+          </div>
         </div>
         <Advantages />
         <Reviews />

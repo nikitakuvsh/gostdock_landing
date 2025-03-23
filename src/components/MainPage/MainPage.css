@@ -110,6 +110,9 @@
 
     .main-page__subtitle {
         font-size: 16px;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        text-wrap: wrap;
     }
 
     .main-page__content {
