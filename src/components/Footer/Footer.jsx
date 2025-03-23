@@ -16,20 +16,20 @@ export function Footer() {
             support@gostdok.ru
           </a>
           <div className="footer__socials">
-            <a href="#" className="footer__socials-link">
+            <span className="footer__socials-link">
               <img
                 src={tgImage}
                 alt="Иконка Телеграмма"
                 className="footer__img"
               />
-            </a>
-            <a href="#" className="footer__socials-link">
+            </span>
+            <span className="footer__socials-link">
               <img
                 src={vkImage}
                 alt="Иконка Вконтакте"
                 className="footer__img"
               />
-            </a>
+            </span>
             <a
               href="https://gostdoc.computernetthings.ru/"
               className="footer__link"
