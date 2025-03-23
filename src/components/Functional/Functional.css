@@ -1,5 +1,11 @@
 .functional__container {
+<<<<<<< HEAD
     margin-bottom: 10rem;
+=======
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 4rem;
+>>>>>>> egorD
 }
 
 .functional__title {
