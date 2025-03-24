@@ -11,7 +11,6 @@ import { Partners } from './components/Partners/Partners';
 import { Footer } from './components/Footer/Footer';
 
 function App() {
-  useSmoothScroll();
   return (
     <BrowserRouter>
       <div className="app">

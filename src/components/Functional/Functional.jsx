@@ -3,7 +3,7 @@ import functionalImage from '../../images/pictures/functional-image.svg';
 
 export default function Functional(){
     return (
-        <div className='functional__container'>
+        <div className='functional__container' id="functions">
             <h2 className='functional__title'>Основные функции</h2>
             <div className='functional__content'>
                 <div className='functional__list'>

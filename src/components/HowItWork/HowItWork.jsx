@@ -6,7 +6,7 @@ import howItWorkImage from '../../images/pictures/how-it-work-image.svg';
 
 export default function HowItWork(){
     return (
-        <div className='how-it-work__container'>
+        <div className='how-it-work__container' id="howItWork">
             <h2 className='how-it-work__title'>Как это работает</h2>
 
             <div className='how-it-work__content'>

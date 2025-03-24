@@ -12,10 +12,10 @@ export default function Header(){
                 </div>
 
                 <div className='header__nav'>
-                    <span className='header__nav-item'>О сервисе</span>
-                    <span className='header__nav-item'>Основные функции</span>
-                    <span className='header__nav-item'>Как это работает</span>
-                    <span className='header__nav-item'>Поддержка</span>
+                    <a href="#about" className='header__nav-item'>О сервисе</a>
+                    <a href="#functions" className='header__nav-item'>Основные функции</a>
+                    <a href="#howItWork" className='header__nav-item'>Как это работает</a>
+                    <a href="#help" className='header__nav-item'>Поддержка</a>
                     <button className='header__nav-button' onClick={() => window.open('https://gostdoc.computernetthings.ru/', '_blank')}>Авторизация</button>
                 </div>
                 

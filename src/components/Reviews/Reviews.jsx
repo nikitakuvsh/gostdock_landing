@@ -84,7 +84,7 @@ export function Reviews() {
 
   const sliderRef = React.useRef(null);
   return (
-    <div className="reviews">
+    <div className="reviews" id="reviews">
       <h2 className="reviews__title">Почему это работает?</h2>
       <div className="reviews__arrows">
         <PrevArrow onClick={() => sliderRef.current.slickPrev()} />

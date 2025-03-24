@@ -1,6 +1,5 @@
 .footer {
     background: #262626;
-    margin-bottom: 2rem;
 }
 
 .footer__top-container {
@@ -154,7 +153,7 @@
     display: flex;
     flex-direction: column;
     gap: 10px;
-    padding: 20px 19rem 15px;
+    padding: 20px 13rem 15px;
 }
 
 .footer__info {
@@ -188,6 +187,7 @@
 
 .footer__nav-link,
 .footer__phone {
+    scroll-behavior: smooth;
     text-decoration: none;
     background: none;
     border: none;

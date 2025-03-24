@@ -7,7 +7,7 @@ import "./Footer.css";
 export function Footer() {
   return (
     <div className="footer">
-      <div className="footer__top-container">
+      <div className="footer__top-container" id="help">
         <div className="footer__text-wrapper">
           <h2 className="footer__title">
             НАПИШИТЕ <br /> НАМ
@@ -95,11 +95,11 @@ export function Footer() {
             </span>
           </div>
           <nav className="footer__nav">
-            <button className="footer__nav-link">О сервисе</button>
-            <button className="footer__nav-link">Основные функции</button>
-            <button className="footer__nav-link">Как это работает</button>
-            <button className="footer__nav-link">Отзывы</button>
-            <button className="footer__nav-link">Поддержка</button>
+            <a href="#about" className="footer__nav-link">О сервисе</a>
+            <a href="#functions" className="footer__nav-link">Основные функции</a>
+            <a href="#howItWork" className="footer__nav-link">Как это работает</a>
+            <a href="#reviews" className="footer__nav-link">Отзывы</a>
+            <a href="#help" className="footer__nav-link">Поддержка</a>
           </nav>
           <a href="tel:81234567890" className="footer__phone">
             8 123 456 78 90
