@@ -9,7 +9,7 @@ export default function Functional(){
                 <div className='functional__list'>
                     <div className='functional__list-item'>
                         <span className='functional__list-number number--fix'>1</span>
-                        <span className='functional__list-text'>Компонентный подход для документов</span>
+                        <span className='functional__list-text'>Составной подход для документов</span>
                     </div>
                     <div className='functional__list-item'>
                         <span className='functional__list-number'>2</span>
@@ -17,7 +17,7 @@ export default function Functional(){
                     </div>
                     <div className='functional__list-item'>
                         <span className='functional__list-number'>3</span>
-                        <span className='functional__list-text'>Автоматическое обновление компонентов</span>
+                        <span className='functional__list-text'>Автоматическое обновление элементов документа</span>
                     </div>
                     <div className='functional__list-item'>
                         <span className='functional__list-number'>4</span>
