@@ -97,7 +97,7 @@ export function Footer() {
           <nav className="footer__nav">
             <a href="#about" className="footer__nav-link">О сервисе</a>
             <a href="#functions" className="footer__nav-link">Основные функции</a>
-            <a href="#howItWork" className="footer__nav-link">Как это работает</a>
+            {/* <a href="#howItWork" className="footer__nav-link">Как это работает</a> */}
             <a href="#reviews" className="footer__nav-link">Отзывы</a>
             <a href="#help" className="footer__nav-link">Поддержка</a>
           </nav>

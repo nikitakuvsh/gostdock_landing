@@ -27,6 +27,11 @@ export default function Functional(){
 
                 <div className='functioncal__image'>
                     <img className='functional__image-item' alt='Картинка' src={functionalImage} />
+                    <div className='functional__text'>
+                        <span className='functional__text-item'>Для студентов</span>
+                        <span className='functional__text-item'>Для преподавателей</span>
+                        <span className='functional__text-item'>Для проектных команд</span>
+                    </div>
                 </div>
             </div>
         </div>

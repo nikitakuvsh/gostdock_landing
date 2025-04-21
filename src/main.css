@@ -10,9 +10,13 @@
 
 html, body {
     background-color: #323B4C;
+    scroll-behavior: smooth;
 }
 
-button {cursor: pointer;}
+button {
+    cursor: pointer;
+    transition: all 0.15s ease-in-out;
+}
 
 img {
     -moz-user-select: none;

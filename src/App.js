@@ -20,7 +20,7 @@ function App() {
           <MainPage />
         <div className='black-rectangle'>
           <div className='fixed__container'>
-            <HowItWork />
+            {/* <HowItWork /> скрываем после фикса дизайнеров*/}
             <Functional />
           </div>
         </div>

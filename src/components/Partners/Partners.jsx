@@ -13,37 +13,7 @@ export function Partners() {
             className="partners__img"
           />
           <p className="partners__text">
-            Разработан в рамках проектной деятельности
-          </p>
-        </li>
-        <li className="partners__item">
-          <img
-            src={logoImage}
-            alt="Логотип Московского Политеха"
-            className="partners__img"
-          />
-          <p className="partners__text">
-            Разработан в рамках проектной деятельности
-          </p>
-        </li>
-        <li className="partners__item">
-          <img
-            src={logoImage}
-            alt="Логотип Московского Политеха"
-            className="partners__img"
-          />
-          <p className="partners__text">
-            Разработан в рамках проектной деятельности
-          </p>
-        </li>
-        <li className="partners__item">
-          <img
-            src={logoImage}
-            alt="Логотип Московского Политеха"
-            className="partners__img"
-          />
-          <p className="partners__text">
-            Разработан в рамках проектной деятельности
+            Разработан в рамках <br /> проектной деятельности
           </p>
         </li>
       </ul>
