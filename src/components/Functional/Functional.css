@@ -48,10 +48,16 @@
     padding: 24px 41px;
 }
 
+.functioncal__image {
+    margin-top: 2rem;
+}
+
 .functional__image-item {
     width: 100%;
     height: auto;
+    max-height: 82%;
     object-fit: cover;
+    border-radius: 30px;
 }
 
 .functional__text {
@@ -71,6 +77,7 @@
     letter-spacing: 0%;
     color: #F5F5F5;
     border-radius: 10px;
+    text-align: center;
 }
 
 @media (max-width: 1366px) {
