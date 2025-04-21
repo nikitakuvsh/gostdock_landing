@@ -9,7 +9,7 @@ export default function MainPage(){
             <h2 className='main-page__title'>ГОСТДОК - автоматизация оформления документов</h2>
             <span className='main-page__subtitle'>Создавайте документы по ГОСТу быстро и без ошибок с поддержкой LaTeX {window.innerWidth < 900 ? '' : <br />} и автоматическим обновлением компонентов</span>
             <div className='main-page__content'>
-                <button className='main-page__button' onClick={() => window.open('https://gostdoc.computernetthings.ru/', '_blank')}>Попробовать бесплатно</button>
+                <button className='main-page__button' onClick={() => window.open('https://gostdoc.computernetthings.ru/', '_blank')}>Попробовать здесь</button>
             </div>
             <img className='main-page__sticker sticker--woman' alt='sticker' src={womanImage}/>
             <img className='main-page__sticker sticker--laptop' alt='sticker' src={laptopImage}/>
