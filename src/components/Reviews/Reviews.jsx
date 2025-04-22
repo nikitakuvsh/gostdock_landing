@@ -92,13 +92,19 @@ export function Reviews() {
       </div>
       <div className="reviews__container">
         <Slider ref={sliderRef} {...settings}>
-            {reviews.map((review, index) => (
-                <div key={index} className="reviews__item">
-                    <img src={quotesImage} alt="Кавычки" className="reviews__image" />
-                    <p className="reviews__text">{review.text}</p>
-                    <p className="reviews__author">{review.author}</p>
-                </div>
-            ))}
+          {reviews.map((review, index) => (
+            <div key={index} className="reviews__item">
+              <div className="reviews__header">
+                <p className="reviews__author">{review.author}</p>
+                <img
+                  src={quotesImage}
+                  alt="Кавычки"
+                  className="reviews__image"
+                />
+              </div>
+              <p className="reviews__text">{review.text}</p>
+            </div>
+          ))}
         </Slider>
       </div>
     </div>
